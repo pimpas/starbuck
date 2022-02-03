@@ -1,0 +1,15 @@
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Data.deps.json
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Data.runtimeconfig.json
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Data.runtimeconfig.dev.json
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Data.dll
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Data.pdb
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Business.dll
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\bin\Debug\netcoreapp3.1\Starbuck.Business.pdb
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.csprojAssemblyReference.cache
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.AssemblyInfoInputs.cache
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.AssemblyInfo.cs
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.csproj.CopyComplete
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.dll
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.pdb
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Data\obj\Debug\netcoreapp3.1\Starbuck.Data.genruntimeconfig.cache

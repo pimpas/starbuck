@@ -1,0 +1,8 @@
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\bin\Debug\netcoreapp3.1\Starbuck.Business.deps.json
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\bin\Debug\netcoreapp3.1\Starbuck.Business.dll
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\bin\Debug\netcoreapp3.1\Starbuck.Business.pdb
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\obj\Debug\netcoreapp3.1\Starbuck.Business.AssemblyInfoInputs.cache
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\obj\Debug\netcoreapp3.1\Starbuck.Business.AssemblyInfo.cs
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\obj\Debug\netcoreapp3.1\Starbuck.Business.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\obj\Debug\netcoreapp3.1\Starbuck.Business.dll
+C:\Users\Bruno Gonçalves\source\repos\Starbuck_\Starbuck\Starbuck.Business\obj\Debug\netcoreapp3.1\Starbuck.Business.pdb
