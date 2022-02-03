@@ -7,7 +7,7 @@ using Starbuck.Data.Context;
 
 namespace Starbuck.Data.Repository
 {
-    public class CategoryRepository : Repository<Category>
+    public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
         public CategoryRepository(MyDbContext context) : base(context) { }
     }

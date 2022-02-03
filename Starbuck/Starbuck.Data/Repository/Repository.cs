@@ -29,10 +29,7 @@ namespace Starbuck.Data.Repository
             await SaveChanges();
         }
 
-        public void Dispose()
-        {
-            Db?.Dispose();
-        }
+        
 
         public virtual async Task<List<TEntity>> GetAll()
         {
@@ -63,6 +60,11 @@ namespace Starbuck.Data.Repository
         public async Task<IEnumerable<TEntity>> Find(Expression<Func<TEntity, bool>> predicate)
         {
             return await DbSet.AsNoTracking().Where(predicate).ToListAsync();
+        }
+
+        public void Dispose()
+        {
+            Db?.Dispose();
         }
     }
 }

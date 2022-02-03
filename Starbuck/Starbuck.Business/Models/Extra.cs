@@ -8,6 +8,6 @@ namespace Starbuck.Business.Models
     {
         public string Name { get; set; }
 
-        public Decimal Price { get; set; }
+        public float Price { get; set; }
     }
 }

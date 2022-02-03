@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Starbuck.Business.Interfaces
 {
-    public interface IRepository<TEntity> :IDisposable where TEntity : Entity
+    public interface IRepository<TEntity>: IDisposable where TEntity : Entity
     {
         Task Add(TEntity entity);
 

@@ -18,8 +18,4 @@
     <ProjectReference Include="..\Starbuck.Business\Starbuck.Business.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Migrations\" />
-  </ItemGroup>
-
 </Project>

@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using Starbuck.Business.Models;
 using Starbuck.Business.Interfaces;
 using System.Threading.Tasks;
 using Starbuck.Data.Context;
-using Microsoft.EntityFrameworkCore;
 
 namespace Starbuck.Data.Repository
 {

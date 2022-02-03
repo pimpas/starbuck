@@ -11,6 +11,7 @@ using Starbuck.Business.Interfaces;
 using Starbuck.Data.Repository;
 using Microsoft.OpenApi.Models;
 using System;
+using Starbuck.Business.Notifications;
 
 namespace Starbuck.Api
 {
@@ -26,11 +27,19 @@ namespace Starbuck.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddScoped<MyDbContext>();
             services.AddDbContext<MyDbContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+            
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<IExtraRepository, ExtraRepository>();
+            services.AddScoped<INotificator, Notificator>();
+            
+            
+            
 
             services.AddSwaggerGen();
             services.AddSwaggerGen(options =>
@@ -43,7 +52,6 @@ namespace Starbuck.Api
                     TermsOfService = new Uri("https://example.com/terms"),
                 });
             });
-            services.AddScoped<IProductRepository, ProductRepository>();
 
             services.AddControllers();
         }
