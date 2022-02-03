@@ -10,3 +10,4 @@ Things i would like to improve:
 -Add a custom controller that has access to custom responses and uses properly the INotificator interface.
 -Return the correct response code in all controllers.
 -Add claims so that some methods are only available to authorized users.
+-Use of git ignore.
