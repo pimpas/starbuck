@@ -5,6 +5,8 @@ Current issue:
 the entity framework is getting an error in saving async method related with disposed object. (need to check this, but the service is registered as scoped)
 the entity framework is also having a problem with numeric types.
 
+--> found the issue with the disposed object (it was cause the controller was returning a void) changed the return to Task<int> and it is working now.
+
 Things i would like to improve:
 -Add automapper and more view model objects.
 -Add a custom controller that has access to custom responses and uses properly the INotificator interface.
